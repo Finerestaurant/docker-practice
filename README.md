@@ -1,6 +1,6 @@
 # Things to do.
 
-1. Build image with `${username}/my-base-image:1.0
+1. Build image with `${username}/my-base-image:1.0`
 
 - You can check created image with `docker images`.
 
