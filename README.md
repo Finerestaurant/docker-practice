@@ -7,7 +7,7 @@
 
 2. Run the Container.
 
-**Command** : `docker run -dit --anem ${username}\_container ${username}/my-base-image:(container ID)`
+- **Command** : `docker run -dit --anem ${username}\_container ${username}/my-base-image:(container ID)`
 
 
 
